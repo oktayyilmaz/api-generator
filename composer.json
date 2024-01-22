@@ -1,5 +1,5 @@
 {
-    "name": "ahmadfatoni/apigenerator-plugin",
+    "name": "oktayyilmaz/apigenerator-plugin",
     "type": "october-plugin",
     "description": "October CMS plugin to build RESTful APIs",
     "require": {
